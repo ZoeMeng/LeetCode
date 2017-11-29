@@ -11,12 +11,16 @@ public class Solution {
 
     public static void main(String[] args){
         RandomListNode test = new RandomListNode(0);
+        RandomListNode head = test;
         for(int i =0; i< 9;i++){
             RandomListNode newNode = new RandomListNode(i+1);
-            test.next = newNode;
+            head.next = newNode;
+            head = head.next;
         }
-        while(test.next.next != null){
-            test.random = test.next.next;
+        head = test;
+        while(head.next.next != null){
+            head.random = head.next.next;
+            head = head.next;
         }
 
         RandomListNode copytest = copyRandomList(test);

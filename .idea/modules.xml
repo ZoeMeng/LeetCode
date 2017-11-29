@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/copyList_randompointer/copyList_randompointer.iml" filepath="$PROJECT_DIR$/copyList_randompointer/copyList_randompointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleNumber_ii/singleNumber_ii.iml" filepath="$PROJECT_DIR$/singleNumber_ii/singleNumber_ii.iml" />
+    </modules>
+  </component>
+</project>
