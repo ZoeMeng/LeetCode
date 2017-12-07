@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/copyList_randompointer/copyList_randompointer.iml" filepath="$PROJECT_DIR$/copyList_randompointer/copyList_randompointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverse_Linked_list_ii/reverse_Linked_list_ii.iml" filepath="$PROJECT_DIR$/reverse_Linked_list_ii/reverse_Linked_list_ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleNumber_ii/singleNumber_ii.iml" filepath="$PROJECT_DIR$/singleNumber_ii/singleNumber_ii.iml" />
     </modules>
   </component>
