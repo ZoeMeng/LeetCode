@@ -9,7 +9,11 @@ package Algorithm;
  */
 
 
-
+/*
+ * 注意：两部分都要保持原始相对位置
+ * 思路：确定要移动得节点个数；循环将大于x元素移到队尾
+ * 对比答案发现，思路过于复杂，移到队尾不可取。。
+ */
 
 public class Solution {
 
@@ -33,6 +37,10 @@ public class Solution {
         dummy.next = head;
         ListNode Start = head, preStart = dummy;
 
+        //统计需要移动的次数
+
+
+        //移动
         while(Start.next != null){
             if(Start.val < x){
                 preStart = Start;
@@ -49,13 +57,16 @@ public class Solution {
 
     private static ListNode toListEnd(ListNode preS, ListNode S){
 
+        ListNode head = preS;
         while(S.next != null){
             ListNode temp = S.next;
             S.next = temp.next;
             temp.next = preS.next;
             preS.next = temp;
+            preS = preS.next;
+
         }
-        return preS.next;
+        return head.next;
 
     }
 
