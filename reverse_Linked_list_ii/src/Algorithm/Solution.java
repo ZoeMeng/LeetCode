@@ -14,7 +14,7 @@ public class Solution {
 
         int m = 3, n = 5;
         ListNode result = reverseBetween(test, m, n);
-        
+
     }
 
     public static ListNode reverseBetween(ListNode head, int m, int n){
