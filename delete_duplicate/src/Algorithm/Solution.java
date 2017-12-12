@@ -35,7 +35,7 @@ public class Solution {
         if(head == null || head.next == null)
             return head;
 
-        ListNode dummy = new ListNode(0);
+        ListNode dummy = new ListNode(head.val-1);
         dummy.next = head;
         ListNode preStart = dummy;
         ListNode Start = head;
@@ -43,15 +43,16 @@ public class Solution {
         while(Start != null && Start.next != null){
             if(Start.val != Start.next.val){
                 preStart = Start;
-                Start = Start.next;
+
             } else{
-                ListNode dupl = Start.next;
-                while(dupl.next != null && dupl.val == dupl.next.val){
-                    dupl = dupl.next;
+
+                while(Start.next != null && Start.val == Start.next.val){
+                    Start = Start.next;
                 }
-                preStart.next = dupl.next;
+                preStart.next = Start.next;
                 Start = preStart.next;
             }
+            Start = Start.next;
 
         }
         return dummy.next;
