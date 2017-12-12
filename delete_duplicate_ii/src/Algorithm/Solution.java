@@ -29,6 +29,27 @@ public class Solution {
     }
 
     public static ListNode deleteDuplicates(ListNode head){
+        if(head == null || head.next == null){
+            return head;
+        }
+
+        ListNode newHead = new ListNode(head.val - 1);
+        newHead.next = head;
+        ListNode Start = head, preStart = newHead;
+
+        while(Start.next != null && Start != null){
+            if(Start.val != Start.next.val){
+                preStart = Start;
+            }else{
+                while(Start.next != null && Start.val == Start.next.val ){
+                    Start = Start.next;
+                }
+                preStart.next = Start;
+            }
+            Start = Start.next;
+
+        }
+        return  newHead.next;
 
     }
 }
