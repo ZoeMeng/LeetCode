@@ -10,7 +10,7 @@ package Algorithm;
 public class Solution {
 
     public static void main(String[] args){
-        int[] sets = {0,0,1,2,2,2,3,4,4};
+        int[] sets = {1,1};
 
         ListNode test = new ListNode(sets[0]);
         ListNode start = test;
@@ -33,23 +33,20 @@ public class Solution {
             return head;
         }
 
-        ListNode newHead = new ListNode(head.val - 1);
-        newHead.next = head;
-        ListNode Start = head, preStart = newHead;
+        //与deleted_duplicate不同，此不需要额外添加新节点指向头节点
+        //因为没有删除头节点的情况
 
-        while( Start != null){
-            if(Start.val != Start.next.val){
-                preStart = Start;
-            }else{
-                while(Start.next != null && Start.val == Start.next.val ){
-                    Start = Start.next;
-                }
-                preStart.next = Start;
+        ListNode Start = head;
+
+        while( Start != null && Start.next != null){
+            if(Start.val == Start.next.val){
+
+                Start.next = Start.next.next;
             }
             Start = Start.next;
 
         }
-        return  newHead.next;
+        return  head;
 
     }
 }
