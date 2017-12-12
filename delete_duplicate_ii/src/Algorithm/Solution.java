@@ -10,7 +10,7 @@ package Algorithm;
 public class Solution {
 
     public static void main(String[] args){
-        int[] sets = {1,2,2,2,3,4,4};
+        int[] sets = {0,0,1,2,2,2,3,4,4};
 
         ListNode test = new ListNode(sets[0]);
         ListNode start = test;
@@ -37,7 +37,7 @@ public class Solution {
         newHead.next = head;
         ListNode Start = head, preStart = newHead;
 
-        while(Start.next != null && Start != null){
+        while( Start != null){
             if(Start.val != Start.next.val){
                 preStart = Start;
             }else{
