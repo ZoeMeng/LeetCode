@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/copyList_randompointer/copyList_randompointer.iml" filepath="$PROJECT_DIR$/copyList_randompointer/copyList_randompointer.iml" />
       <module fileurl="file://$PROJECT_DIR$/delete_duplicate/delete_duplicate.iml" filepath="$PROJECT_DIR$/delete_duplicate/delete_duplicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/delete_duplicate_ii/delete_duplicate_ii.iml" filepath="$PROJECT_DIR$/delete_duplicate_ii/delete_duplicate_ii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/merge_two_list/merge_two_list.iml" filepath="$PROJECT_DIR$/merge_two_list/merge_two_list.iml" />
       <module fileurl="file://$PROJECT_DIR$/partitionList/partitionList.iml" filepath="$PROJECT_DIR$/partitionList/partitionList.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverse_Linked_list_ii/reverse_Linked_list_ii.iml" filepath="$PROJECT_DIR$/reverse_Linked_list_ii/reverse_Linked_list_ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleNumber_ii/singleNumber_ii.iml" filepath="$PROJECT_DIR$/singleNumber_ii/singleNumber_ii.iml" />
