@@ -3,7 +3,7 @@ package Algorithm;
 public class Solution {
     public static void main(String[] args){
         int[] set1 = {1,2,12,32,35};
-        int[] set2 = {3,10,11,16};
+        int[] set2 = {3};
 
         ListNode List1 = new ListNode(set1[0]);
         ListNode List2 = new ListNode(set2[0]);
