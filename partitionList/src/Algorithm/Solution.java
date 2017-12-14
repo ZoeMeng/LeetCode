@@ -10,9 +10,9 @@ package Algorithm;
 
 
 /*
- * 注意：两部分都要保持原始相对位置
- * 思路：确定要移动得节点个数；循环将大于x元素移到队尾
- * 对比答案发现，思路过于复杂，移到队尾不可取。。
+ * 思路：新建两个节点preHead1与preHead2，分别为指向两个链表的头结点。
+ * 把节点值小于x的节点链接到链表1上，节点值大等于x的节点链接到链表2上。
+ * 最后把两个链表相连即可
  */
 
 public class Solution {
@@ -31,43 +31,23 @@ public class Solution {
     }
 
     public static ListNode partition(ListNode head, int x){
-        if(head == null || head.next == null)
-            return head;
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
-        ListNode Start = head, preStart = dummy;
-
-        //统计需要移动的次数
-
-
-        //移动
-        while(Start.next != null){
-            if(Start.val < x){
-                preStart = Start;
-                Start = Start.next;
+        //preHead1, preHead2分别表示两个链表的头节点的前移节点
+        ListNode preHead1 = new ListNode(0),
+                 preHead2 = new ListNode(0);
+        ListNode cur1 = preHead1, cur2 = preHead2;
+        while(head != null){
+            if(head.val < x){
+                cur1.next = head;
+                cur1 = cur1.next;
             }else{
-                //Start节点移动到队尾
-                Start = toListEnd(preStart,Start);
-
+                cur2.next = head;
+                cur2 = cur2.next;
             }
+            head = head.next;
         }
-        return dummy.next;
-
-    }
-
-    private static ListNode toListEnd(ListNode preS, ListNode S){
-
-        ListNode head = preS;
-        while(S.next != null){
-            ListNode temp = S.next;
-            S.next = temp.next;
-            temp.next = preS.next;
-            preS.next = temp;
-            preS = preS.next;
-
-        }
-        return head.next;
-
+        cur1.next = preHead2.next;
+        cur2.next = null;
+        return preHead1.next;
     }
 
 
