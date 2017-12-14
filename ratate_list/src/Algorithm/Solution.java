@@ -22,7 +22,9 @@ public class Solution {
     }
 
     public static ListNode rotateRight(ListNode head, int n){
-        if(head == null || head.next == null )
+
+        //考虑空指针，和n==0
+        if(head == null || head.next == null || n == 0)
             return head;
 
         //首尾相接
