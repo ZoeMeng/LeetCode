@@ -8,9 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/delete_duplicate_ii/delete_duplicate_ii.iml" filepath="$PROJECT_DIR$/delete_duplicate_ii/delete_duplicate_ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/merge_two_list/merge_two_list.iml" filepath="$PROJECT_DIR$/merge_two_list/merge_two_list.iml" />
       <module fileurl="file://$PROJECT_DIR$/partitionList/partitionList.iml" filepath="$PROJECT_DIR$/partitionList/partitionList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ratate_list/ratate_list.iml" filepath="$PROJECT_DIR$/ratate_list/ratate_list.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverse_Linked_list_ii/reverse_Linked_list_ii.iml" filepath="$PROJECT_DIR$/reverse_Linked_list_ii/reverse_Linked_list_ii.iml" />
-      <module fileurl="file://$PROJECT_DIR$/reverse_node_K_grop/reverse_node_K_grop.iml" filepath="$PROJECT_DIR$/reverse_node_K_grop/reverse_node_K_grop.iml" />
-      <module fileurl="file://$PROJECT_DIR$/singleNumber_ii/singleNumber_ii.iml" filepath="$PROJECT_DIR$/singleNumber_ii/singleNumber_ii.iml" />
     </modules>
   </component>
 </project>
