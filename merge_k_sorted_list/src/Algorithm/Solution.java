@@ -49,11 +49,11 @@ public class Solution {
             head = head.next;
         }
 
-
-
-
     }
 
+    /*
+    思路1：并归排序，也称为分治思想
+     */
     public static ListNode mergeKLists(ArrayList<ListNode> lists){
         if(lists == null || lists.size() == 0)
             return null;
