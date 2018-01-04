@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/add_two_num/add_two_num.iml" filepath="$PROJECT_DIR$/add_two_num/add_two_num.iml" />
       <module fileurl="file://$PROJECT_DIR$/copyList_randompointer/copyList_randompointer.iml" filepath="$PROJECT_DIR$/copyList_randompointer/copyList_randompointer.iml" />
       <module fileurl="file://$PROJECT_DIR$/delete_duplicate/delete_duplicate.iml" filepath="$PROJECT_DIR$/delete_duplicate/delete_duplicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/delete_duplicate_ii/delete_duplicate_ii.iml" filepath="$PROJECT_DIR$/delete_duplicate_ii/delete_duplicate_ii.iml" />
