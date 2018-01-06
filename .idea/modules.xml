@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/copyList_randompointer/copyList_randompointer.iml" filepath="$PROJECT_DIR$/copyList_randompointer/copyList_randompointer.iml" />
       <module fileurl="file://$PROJECT_DIR$/delete_duplicate/delete_duplicate.iml" filepath="$PROJECT_DIR$/delete_duplicate/delete_duplicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/delete_duplicate_ii/delete_duplicate_ii.iml" filepath="$PROJECT_DIR$/delete_duplicate_ii/delete_duplicate_ii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/median_of_two_sorted_array/median_of_two_sorted_array.iml" filepath="$PROJECT_DIR$/median_of_two_sorted_array/median_of_two_sorted_array.iml" />
       <module fileurl="file://$PROJECT_DIR$/merge_k_sorted_list/merge_k_sorted_list.iml" filepath="$PROJECT_DIR$/merge_k_sorted_list/merge_k_sorted_list.iml" />
       <module fileurl="file://$PROJECT_DIR$/merge_two_list/merge_two_list.iml" filepath="$PROJECT_DIR$/merge_two_list/merge_two_list.iml" />
       <module fileurl="file://$PROJECT_DIR$/partitionList/partitionList.iml" filepath="$PROJECT_DIR$/partitionList/partitionList.iml" />
