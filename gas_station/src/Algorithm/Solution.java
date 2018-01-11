@@ -15,9 +15,8 @@ public class Solution {
     }
 
     /*
-     * 解有且只有一个，所以只有从起点start出发
-     * 才可以走完全程；这也就是说，从另一个起点出发，无法走到start；
-     * 所以当出现本次剩余汽油量为<0时，该位置如果是起点返回index，否则返回-1
+     * 解有且只有一个，所以只有从起点start出发,才可以走完全程；这也就是说，从另一个起点出发，无法走到start；
+     * 重点在于。运用累计汽油剩余量确定是否可成环，和当前汽油量判断起点位置
      */
     public static int canCompleteCircuit(int[] gas, int[] cost){
         if(gas == null || cost == null)
