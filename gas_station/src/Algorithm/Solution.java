@@ -14,30 +14,27 @@ public class Solution {
         System.out.println(result);
     }
 
+    /*
+     * 解有且只有一个，所以只有从起点start出发
+     * 才可以走完全程；这也就是说，从另一个起点出发，无法走到start；
+     * 所以当出现本次剩余汽油量为<0时，该位置如果是起点返回index，否则返回-1
+     */
     public static int canCompleteCircuit(int[] gas, int[] cost){
-        if(gas == null)
+        if(gas == null || cost == null)
             return -1;
-        if(gas.length == 1 && gas[0] >= cost[0])
-            return 0;
 
-        int carGas;//记录车上的油还有多少
-        int startstation ;//指针指向起点
-        int endstation;
-
-        for(startstation = 0; startstation < gas.length; startstation++){
-            endstation = startstation + 1;
-            carGas = gas[startstation];
-
-            while(carGas- cost[(endstation - 1) % gas.length] >= 0){
-                carGas = carGas - cost[(endstation - 1) % gas.length];
-                endstation = endstation + 1;
+        int index = -1, remain = 0, total = 0;
+        for (int i = 0; i < gas.length; i++){
+            total += gas[i] - cost[i];
+            remain += gas[i] - cost[i];
+            //如果本次剩余<0，说明不能由i走到i+1
+            if(remain < 0){
+                remain = 0;
+                index = i;
             }
-            if(endstation == startstation) {
-                return startstation;
-            }
-
         }
-        return -1;
+        return total >= 0 ? index + 1 : -1;
+
     }
 
 }
