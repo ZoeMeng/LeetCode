@@ -22,7 +22,7 @@ public class Solution {
         if(gas == null || cost == null)
             return -1;
 
-        int index = -1, remain = 0, total = 0;
+        int index = -1, remain = 0, total = 0;  //为什么index初始值为-1
         for (int i = 0; i < gas.length; i++){
             total += gas[i] - cost[i];
             remain += gas[i] - cost[i];
