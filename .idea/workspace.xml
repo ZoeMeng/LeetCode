@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e6d276d-7ec8-47a4-b5dc-0c68ad659b38" name="Default" comment="for reference">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/production/delete_duplicate/Algorithm/ListNode.class" afterPath="$PROJECT_DIR$/production/delete_duplicate/Algorithm/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/production/delete_duplicate/Algorithm/Solution.class" afterPath="$PROJECT_DIR$/production/delete_duplicate/Algorithm/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/production/delete_duplicate_ii/Algorithm/ListNode.class" afterPath="$PROJECT_DIR$/production/delete_duplicate_ii/Algorithm/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/production/delete_duplicate_ii/Algorithm/Solution.class" afterPath="$PROJECT_DIR$/production/delete_duplicate_ii/Algorithm/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/production/gas_station/Algorithm/Solution.class" afterPath="$PROJECT_DIR$/production/gas_station/Algorithm/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/production/merge_two_list/Algorithm/ListNode.class" afterPath="$PROJECT_DIR$/production/merge_two_list/Algorithm/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/production/merge_two_list/Algorithm/Solution.class" afterPath="$PROJECT_DIR$/production/merge_two_list/Algorithm/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/production/partitionList/Algorithm/ListNode.class" afterPath="$PROJECT_DIR$/production/partitionList/Algorithm/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/production/partitionList/Algorithm/Solution.class" afterPath="$PROJECT_DIR$/production/partitionList/Algorithm/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/production/ratate_list/Algorithm/ListNode.class" afterPath="$PROJECT_DIR$/production/ratate_list/Algorithm/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/production/ratate_list/Algorithm/Solution.class" afterPath="$PROJECT_DIR$/production/ratate_list/Algorithm/Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/" />
@@ -51,11 +39,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/minimum_window_substring/src/Algorithm/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="59" column="13" lean-forward="false" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+            <state relative-caret-position="368">
+              <caret line="66" column="75" lean-forward="false" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jump_game/src/Algorithm/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -91,6 +89,7 @@
         <option value="$PROJECT_DIR$/largest_rectangle_in_histogram/src/Algorithm/Solution.java" />
         <option value="$PROJECT_DIR$/maximal_rectangle/src/Algorithm/Solution.java" />
         <option value="$PROJECT_DIR$/minimum_window_substring/src/Algorithm/Solution.java" />
+        <option value="$PROJECT_DIR$/jump_game/src/Algorithm/Solution.java" />
       </list>
     </option>
   </component>
@@ -100,11 +99,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="749" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="651" />
     <option name="y" value="133" />
-    <option name="width" value="717" />
-    <option name="height" value="543" />
+    <option name="width" value="715" />
+    <option name="height" value="507" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -122,6 +121,62 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Default">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="partitionList" type="cbb8eebc:String" user="partitionList" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="reverse_Linked_list_ii" type="cbb8eebc:String" user="reverse_Linked_list_ii" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
+              <item name="jump_game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
+              <item name="jump_game" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
+              <item name="minimum_window_substring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
+              <item name="minimum_window_substring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
+              <item name="minimum_window_substring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -157,98 +212,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="merge_k_sorted_list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="merge_k_sorted_list" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="merge_k_sorted_list" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="minimum_window_substring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="minimum_window_substring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="minimum_window_substring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="reverse_Linked_list_ii" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="reverse_Linked_list_ii" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="reverse_Linked_list_ii" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="valid_palindrome" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="valid_palindrome" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Default">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="partitionList" type="cbb8eebc:String" user="partitionList" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="reverse_Linked_list_ii" type="cbb8eebc:String" user="reverse_Linked_list_ii" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -400,7 +363,8 @@
       <option name="presentableId" value="Default" />
       <updated>1515745226600</updated>
       <workItem from="1515745259520" duration="3051000" />
-      <workItem from="1516106657060" duration="720000" />
+      <workItem from="1516106657060" duration="1150000" />
+      <workItem from="1516168249432" duration="2997000" />
     </task>
     <task id="LOCAL-00004" summary="for reference">
       <created>1515745380092</created>
@@ -420,10 +384,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14577000" />
+    <option name="totallyTimeSpent" value="18004000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="749" y="133" width="1303" height="780" extended-state="6" />
+    <frame x="651" y="133" width="715" height="507" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854208" sideWeight="0.49721116" order="6" side_tool="false" content_ui="tabs" />
@@ -432,19 +397,19 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40095848" sideWeight="0.50913423" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46166134" sideWeight="0.49722" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41853034" sideWeight="0.4812749" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27795526" sideWeight="0.46227163" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46166134" sideWeight="0.49722" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48199445" sideWeight="0.46227163" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14217633" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.268945" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24781573" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40095848" sideWeight="0.49086577" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40095848" sideWeight="0.49086577" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -658,13 +623,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/partitionList/src/Algorithm/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partitionList/src/Algorithm/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
@@ -814,6 +772,8 @@
     <entry file="file://$PROJECT_DIR$/median_of_two_sorted_array/src/Algorithm/Solution.java" />
     <entry file="file://$PROJECT_DIR$/valid_palindrome/src/Algorithm/Solution.java" />
     <entry file="file://$PROJECT_DIR$/valid_palindrome/src/Alogrithm/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/largest_rectangle_in_histogram/src/Algorithm.java" />
+    <entry file="file://$PROJECT_DIR$/largest_rectangle_in_histogram/src/Algorithm/Solution.java" />
     <entry file="file://$PROJECT_DIR$/partitionList/src/Algorithm/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
@@ -822,7 +782,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/largest_rectangle_in_histogram/src/Algorithm.java" />
     <entry file="file://$PROJECT_DIR$/maximal_rectangle/src/Algorithm/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -831,11 +790,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/largest_rectangle_in_histogram/src/Algorithm/Solution.java" />
     <entry file="file://$PROJECT_DIR$/minimum_window_substring/src/Algorithm/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="59" column="13" lean-forward="false" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        <state relative-caret-position="368">
+          <caret line="66" column="75" lean-forward="false" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jump_game/src/Algorithm/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
           <folding />
         </state>
       </provider>
