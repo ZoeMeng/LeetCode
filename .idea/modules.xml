@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/delete_duplicate_ii/delete_duplicate_ii.iml" filepath="$PROJECT_DIR$/delete_duplicate_ii/delete_duplicate_ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/gas_station/gas_station.iml" filepath="$PROJECT_DIR$/gas_station/gas_station.iml" />
       <module fileurl="file://$PROJECT_DIR$/jump_game/jump_game.iml" filepath="$PROJECT_DIR$/jump_game/jump_game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maxSubArray/maxSubArray.iml" filepath="$PROJECT_DIR$/maxSubArray/maxSubArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/maximal_rectangle/maximal_rectangle.iml" filepath="$PROJECT_DIR$/maximal_rectangle/maximal_rectangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/median_of_two_sorted_array/median_of_two_sorted_array.iml" filepath="$PROJECT_DIR$/median_of_two_sorted_array/median_of_two_sorted_array.iml" />
       <module fileurl="file://$PROJECT_DIR$/merge_k_sorted_list/merge_k_sorted_list.iml" filepath="$PROJECT_DIR$/merge_k_sorted_list/merge_k_sorted_list.iml" />
@@ -19,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/remove_duplicates_from_sorted_list_ii/remove_duplicates_from_sorted_list_ii.iml" filepath="$PROJECT_DIR$/remove_duplicates_from_sorted_list_ii/remove_duplicates_from_sorted_list_ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/remove_nth_Node_from_end/remove_nth_Node_from_end.iml" filepath="$PROJECT_DIR$/remove_nth_Node_from_end/remove_nth_Node_from_end.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverse_Linked_list_ii/reverse_Linked_list_ii.iml" filepath="$PROJECT_DIR$/reverse_Linked_list_ii/reverse_Linked_list_ii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverse_nodes_in_k_group/reverse_nodes_in_k_group.iml" filepath="$PROJECT_DIR$/reverse_nodes_in_k_group/reverse_nodes_in_k_group.iml" />
       <module fileurl="file://$PROJECT_DIR$/swap_nodes_in_pairs/swap_nodes_in_pairs.iml" filepath="$PROJECT_DIR$/swap_nodes_in_pairs/swap_nodes_in_pairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/valid_palindrome/valid_palindrome.iml" filepath="$PROJECT_DIR$/valid_palindrome/valid_palindrome.iml" />
     </modules>

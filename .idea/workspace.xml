@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e6d276d-7ec8-47a4-b5dc-0c68ad659b38" name="Default" comment="">
+    <list default="true" id="7e6d276d-7ec8-47a4-b5dc-0c68ad659b38" name="Default" comment="add maxSubArray, including 2 algorithms, need to review">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/production/maximal_rectangle/Algorithm/Solution.class" afterPath="$PROJECT_DIR$/production/maximal_rectangle/Algorithm/Solution.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jump_game/src/Algorithm/Solution.java" afterPath="$PROJECT_DIR$/jump_game/src/Algorithm/Solution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maximal_rectangle/src/Algorithm/Solution.java" afterPath="$PROJECT_DIR$/maximal_rectangle/src/Algorithm/Solution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/merge_k_sorted_list/src/Algorithm/Solution.java" afterPath="$PROJECT_DIR$/merge_k_sorted_list/src/Algorithm/Solution.java" />
     </list>
     <ignored path="$PROJECT_DIR$/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,21 +24,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partitionList/src/Algorithm/Solution.java">
+      <file leaf-file-name="solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reverse_nodes_in_k_group/src/algorithm/solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+            <state relative-caret-position="244">
+              <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/merge_k_sorted_list/src/Algorithm/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="67" column="4" lean-forward="false" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/remove_duplicates_from_sorted_list_ii/src/algorithm/Solution.java">
+        <entry file="file://$PROJECT_DIR$/maximal_rectangle/src/Algorithm/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="27" column="14" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="37" selection-end-column="9" />
+            <state relative-caret-position="198">
+              <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1305#1314#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jump_game/src/Algorithm/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/maxSubArray/src/algorithm/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="63" column="22" lean-forward="false" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -71,10 +108,14 @@
         <option value="$PROJECT_DIR$/valid_palindrome/src/Alogrithm/Solution.java" />
         <option value="$PROJECT_DIR$/largest_rectangle_in_histogram/src/Algorithm.java" />
         <option value="$PROJECT_DIR$/largest_rectangle_in_histogram/src/Algorithm/Solution.java" />
-        <option value="$PROJECT_DIR$/maximal_rectangle/src/Algorithm/Solution.java" />
         <option value="$PROJECT_DIR$/minimum_window_substring/src/Algorithm/Solution.java" />
-        <option value="$PROJECT_DIR$/jump_game/src/Algorithm/Solution.java" />
+        <option value="$PROJECT_DIR$/remove_duplicates_from_sorted_list_ii/src/algorithm/Solution2.java" />
         <option value="$PROJECT_DIR$/remove_duplicates_from_sorted_list_ii/src/algorithm/Solution.java" />
+        <option value="$PROJECT_DIR$/reverse_nodes_in_k_group/src/algorithm/solution.java" />
+        <option value="$PROJECT_DIR$/maxSubArray/src/algorithm/Solution.java" />
+        <option value="$PROJECT_DIR$/jump_game/src/Algorithm/Solution.java" />
+        <option value="$PROJECT_DIR$/merge_k_sorted_list/src/Algorithm/Solution.java" />
+        <option value="$PROJECT_DIR$/maximal_rectangle/src/Algorithm/Solution.java" />
       </list>
     </option>
   </component>
@@ -106,6 +147,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,91 +158,43 @@
             <path>
               <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="jump_game" type="462c0819:PsiDirectoryNode" />
+              <item name="maxSubArray" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="jump_game" type="462c0819:PsiDirectoryNode" />
+              <item name="maxSubArray" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="minimum_window_substring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="minimum_window_substring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="minimum_window_substring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="partitionList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="partitionList" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="partitionList" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="ratate_list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="ratate_list" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="ratate_list" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="remove_duplicates_from_sorted_list_ii" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="remove_duplicates_from_sorted_list_ii" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
-              <item name="remove_duplicates_from_sorted_list_ii" type="462c0819:PsiDirectoryNode" />
+              <item name="maxSubArray" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
+              <item name="median_of_two_sorted_array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
+              <item name="median_of_two_sorted_array" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode2" type="462c0819:PsiDirectoryNode" />
+              <item name="median_of_two_sorted_array" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -235,6 +229,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope">
         <subPane subId="Default">
           <expand>
@@ -250,7 +245,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.dele_duplica">
+  <component name="RunManager" selected="Application.max_subA">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -361,9 +355,9 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="dele_duplica" type="Application" factoryName="Application">
+    <configuration name="dele_duplica2" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="algorithm.Solution" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.Solution2" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -375,6 +369,24 @@
       <module name="remove_duplicates_from_sorted_list_ii" />
       <envs />
     </configuration>
+    <configuration name="max_subA" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.Solution" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="maxSubArray" />
+      <envs />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.max_subA" />
+      <item index="1" class="java.lang.String" itemvalue="Application.dele_duplica2" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -415,7 +427,13 @@
       <workItem from="1519808704432" duration="66000" />
       <workItem from="1521638427043" duration="283000" />
       <workItem from="1530495280961" duration="965000" />
-      <workItem from="1530531847360" duration="1853000" />
+      <workItem from="1530531847360" duration="3859000" />
+      <workItem from="1530577143654" duration="3852000" />
+      <workItem from="1530620034429" duration="2164000" />
+      <workItem from="1530662508763" duration="6626000" />
+      <workItem from="1530796248613" duration="976000" />
+      <workItem from="1530951274600" duration="3089000" />
+      <workItem from="1531188763534" duration="5605000" />
     </task>
     <task id="LOCAL-00004" summary="for reference">
       <created>1515745380092</created>
@@ -438,11 +456,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530496144903</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="still exist error, need analyze and move to bolg">
+      <created>1530533723780</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1530533723780</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23709000" />
+    <option name="totallyTimeSpent" value="48027000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -454,36 +479,36 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="651" y="133" width="1857" height="1092" extended-state="6" />
+    <frame x="651" y="133" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.49721116" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35927504" sideWeight="0.44162032" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35927504" sideWeight="0.44162032" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40095848" sideWeight="0.50913423" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46162048" sideWeight="0.49722" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24413647" sideWeight="0.4812749" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46162048" sideWeight="0.49722" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48081023" sideWeight="0.46227163" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19966906" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21290678" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24781573" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4008529" sideWeight="0.49086577" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4008529" sideWeight="0.49086577" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -522,7 +547,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="for reference" />
     <MESSAGE value="still exist error, need analyze and move to bolg" />
-    <option name="LAST_COMMIT_MESSAGE" value="still exist error, need analyze and move to bolg" />
+    <MESSAGE value="add maxSubArray, including 2 algorithms, need to review" />
+    <option name="LAST_COMMIT_MESSAGE" value="add maxSubArray, including 2 algorithms, need to review" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -635,12 +661,6 @@
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/merge_k_sorted_list/src/Algorithm/Solution.java</url>
-          <line>44</line>
-          <properties />
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/remove_nth_Node_from_end/src/Algorithm/Solution.java</url>
           <line>52</line>
           <properties />
@@ -684,7 +704,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/maximal_rectangle/src/Algorithm/Solution.java</url>
-          <line>12</line>
+          <line>17</line>
           <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
@@ -708,45 +728,46 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/remove_duplicates_from_sorted_list_ii/src/algorithm/Solution.java</url>
-          <line>49</line>
+          <line>44</line>
           <properties />
           <option name="timeStamp" value="46" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/remove_duplicates_from_sorted_list_ii/src/algorithm/Solution2.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/reverse_nodes_in_k_group/src/algorithm/solution.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/maxSubArray/src/algorithm/Solution.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/merge_k_sorted_list/src/Algorithm/Solution.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="47" />
+      <option name="time" value="54" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="S.charAt(end++)" />
         <watch expression="map[S.charAt(end++)]" />
+        <watch expression="num/k" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/reverse_Linked_list_ii/src/Algorithm/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partitionList/src/Algorithm/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reverse_Linked_list_ii/src/Algorithm/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/copyList_randompointer/src/Algorithm/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -841,14 +862,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reverse_Linked_list_ii/src/Algorithm/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ratate_list/rotate_list.iml" />
     <entry file="file://$PROJECT_DIR$/ratate_list/ratate_list.iml" />
     <entry file="file://$PROJECT_DIR$/production/swap_nodes_in_pairs/Algorithm/ListNode.class" />
@@ -857,41 +870,16 @@
     <entry file="file://$PROJECT_DIR$/merge_k_sorted_list/src/Algorithm/ListNode.java" />
     <entry file="file://$PROJECT_DIR$/swap_nodes_in_pairs/src/Algorithm/Solution.java" />
     <entry file="file://$PROJECT_DIR$/merge_two_list/src/Algorithm/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/merge_k_sorted_list/src/Algorithm/Solution.java" />
     <entry file="file://$PROJECT_DIR$/add_two_num/src/Algorithm/Solution.java" />
     <entry file="file://$PROJECT_DIR$/remove_nth_Node_from_end/src/Algorithm/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/median_of_two_sorted_array/src/Algorithm/Solution.java" />
     <entry file="file://$PROJECT_DIR$/valid_palindrome/src/Algorithm/Solution.java" />
     <entry file="file://$PROJECT_DIR$/valid_palindrome/src/Alogrithm/Solution.java" />
     <entry file="file://$PROJECT_DIR$/largest_rectangle_in_histogram/src/Algorithm.java" />
     <entry file="file://$PROJECT_DIR$/largest_rectangle_in_histogram/src/Algorithm/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/jump_game/src/Algorithm/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maximal_rectangle/src/Algorithm/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ratate_list/src/Algorithm/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partitionList/src/Algorithm/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -904,11 +892,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/remove_duplicates_from_sorted_list_ii/src/algorithm/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/remove_duplicates_from_sorted_list_ii/src/algorithm/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="27" column="14" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="37" selection-end-column="9" />
+        <state relative-caret-position="622">
+          <caret line="38" column="27" lean-forward="false" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partitionList/src/Algorithm/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reverse_Linked_list_ii/src/Algorithm/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/median_of_two_sorted_array/src/Algorithm/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="46" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reverse_nodes_in_k_group/src/algorithm/solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxSubArray/src/algorithm/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="63" column="22" lean-forward="false" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jump_game/src/Algorithm/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merge_k_sorted_list/src/Algorithm/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="67" column="4" lean-forward="false" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maximal_rectangle/src/Algorithm/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1305#1314#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

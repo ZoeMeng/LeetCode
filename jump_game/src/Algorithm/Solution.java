@@ -24,13 +24,11 @@ public class Solution {
         int maxReach = 0;
         int n = A.length;
         for (int i = 0; i < n && i <= maxReach;i++){
-            if(maxReach < (i+A[i]))
+            if (maxReach < (i+A[i]))
                 maxReach = i + A[i];
         }
 
-        if(maxReach < n-1)
-            return false;
-        return true;
+        return maxReach >= n - 1;
 
     }
 }
